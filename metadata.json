@@ -1,0 +1,6 @@
+{
+  "name": "Boston House Price Estimator",
+  "description": "An interactive web application applying linear regression to the Boston Housing dataset.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
